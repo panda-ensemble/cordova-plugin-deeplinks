@@ -1,6 +1,6 @@
 # Cordova Deeplinks Plugin
 
-**NOTE:** This is a fork from the original cordova plugin "cordova-deeplinks" that in turn is a fork from "cordova-universal-links-plugin"
+**NOTE:** This is a fork from https://github.com/e-imaxina/cordova-plugin-deeplinks (v.1.1.1 at 2019-08-13)
 
 This Cordova plugin adds support for opening an application from the browser when user clicks on the link. Better known as:
 - [Universal Links on iOS](https://developer.apple.com/library/ios/documentation/General/Conceptual/AppSearch/UniversalLinks.html)

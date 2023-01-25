@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.2](https://github.com/e-imaxina/cordova-plugin-deeplinks/compare/v1.1.1...v1.1.2) (2023-01-25)
+
+### Bug Fixes
+
+* Fix bug for Cordova that causes "Unexpected token '.'" during "cordova platform add android@8.1"
+
 ### [1.1.1](https://github.com/e-imaxina/cordova-plugin-deeplinks/compare/v1.1.0...v1.1.1) (2019-08-13)
 
 
