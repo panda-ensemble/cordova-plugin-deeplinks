@@ -2,11 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-### [1.1.2](https://github.com/e-imaxina/cordova-plugin-deeplinks/compare/v1.1.1...v1.1.2) (2023-01-25)
+### [1.1.3](https://github.com/panda-ensemble/cordova-plugin-deeplinks/compare/release/1.1.2...release/1.1.3) (2023-04-29)
 
 ### Bug Fixes
 
-* Fix bug for Cordova that causes "Unexpected token '.'" during "cordova platform add android@8.1"
+* Fix bug for Cordova that causes "xmlPreferences.hasOwnProperty is not a function" during "cordova build android".
+Based on [this solution](https://github.com/e-imaxina/cordova-plugin-deeplinks/commit/04d7bf8db0c0ae0f26127a6e1eb43dce38a80784).
+
+### [1.1.2](https://github.com/panda-ensemble/cordova-plugin-deeplinks/compare/1.1.1...release/1.1.2) (2023-01-25)
+
+### Bug Fixes
+
+* Fix bug for Cordova that causes "Unexpected token '.'" during "cordova platform add android@8.1".
 
 ### [1.1.1](https://github.com/e-imaxina/cordova-plugin-deeplinks/compare/v1.1.0...v1.1.1) (2019-08-13)
 
